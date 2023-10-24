@@ -9,3 +9,7 @@ var add2 = function(number) {
   return number + 2;
 }
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
